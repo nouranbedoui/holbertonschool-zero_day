@@ -1,1 +1,1 @@
-echo -e '#!/bin/bash\necho "Best"' > bash/best
+echo -e '#!/bin/bash\necho "This School is so cool!"' > bash/best
