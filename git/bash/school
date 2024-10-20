@@ -1,1 +1,1 @@
-echo -e '#!/bin/bash\necho "School"' > bash/school
+sed -i 's/echo "School"/echo "The school is open!"/' bash/school
